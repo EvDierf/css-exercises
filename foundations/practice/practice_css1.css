@@ -1,0 +1,24 @@
+/* this will encompass everything I've learned
+so far -
+  text with different -
+    colors
+    sizes
+    fonts
+    and how to put in fonts "not reconized"
+  pix -
+    with and without distortion
+    re-sizing them
+  combination of different items to acheive a sam look
+  use of both class and type to achieve the same result, 
+  some times with even in the same line
+
+  */
+div {
+  background-color: rgb(0, 1, 68);
+  color: rgb(245, 89, 89);
+  font-size: 32px;
+  text-align: center;
+  font-family:'Courier New', Courier, monospace;
+  font-weight: lighter;
+}
+
